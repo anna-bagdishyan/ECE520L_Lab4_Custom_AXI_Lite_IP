@@ -1,0 +1,7 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/custom_axi_lite/custom_axi_lite/custom_axi_lite.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/custom_axi_lite/sim/tb_multiplier_16_bit.v,1793778634,systemVerilog,,,,tb_multiplier_16_bit,,uvm,,,,,,
+C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/custom_axi_lite/src/multiplier_ab.v,1793778635,systemVerilog,,C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/custom_axi_lite/sim/tb_multiplier_16_bit.v,,multiplier_16_bit,,uvm,,,,,,

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="mult_app_T5" location="C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/mult_soc_ab/mult_soc_ab/mult_soc_vitis_T5/mult_app_T5" platform="C:/ECE520/Vivado/ECE520L_Lab4_Custom_AXI_Lite_IP/custom_axi_lite/mult_soc_ab/mult_soc_ab/mult_soc_vitis_T5/mult_plat_T5/export/mult_plat_T5/mult_plat_T5.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="mult_app_T5_system" sysConfig="mult_plat_T5" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="f75a15a1a6e953dd63701338f9a12221">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.551682122">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1536661313" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

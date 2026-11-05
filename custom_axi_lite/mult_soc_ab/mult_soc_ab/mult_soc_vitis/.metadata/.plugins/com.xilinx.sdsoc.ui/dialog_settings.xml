@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="C:\ECE520\Vivado\ECE520L_Lab4_Custom_AXI_Lite_IP\custom_axi_lite\mult_soc_ab\mult_soc_ab\mult_soc_vitis\mult_plat\export\mult_plat"/>
+	<item key="sdx.custom.platform.repository.last.directory.dialog.location" value="C:\ECE520\Vivado\ECE520L_Lab4_Custom_AXI_Lite_IP\custom_axi_lite\mult_soc_ab\mult_soc_ab\mult_soc_vitis\mult_plat\export\mult_plat"/>
+</section>
