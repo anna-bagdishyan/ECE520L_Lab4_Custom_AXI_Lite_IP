@@ -15,7 +15,7 @@ The FIFO from Lab 3 was packaged as a custom AXI4-Lite IP named sc_fifo_axi. The
 ## Verification and Results
 For Task 5, the program was updated to perform 32 multiplication operations. Each multiplication result was stored in a separate BRAM entry. After all operations were completed. the program read entries 0 through 32 from the BRAM and printed their contents to the terminal.
 
-For Task 6, the FIFO AXI IP was tested. The first test writes two values into the FIFO and checks the FIFO count and reads the two valeus back using the read request and status registers. 
+For Task 6, the FIFO AXI IP was tested. The first test writes two values into the FIFO and checks the FIFO count and reads the two values back using the read request and status registers. The second test checks the reset functionality by writing two values into the FIFO, then resetting. The FIFO count is checked to verify that the FIFO was emptied, and a read request is performed while the FIFO is empty. The third test checks the full signal of the FIFO. 32 values are written into the FIFO and the data count is checked to see if it reaches 32. An additional write is attempted while the FIFO is full to show that the FIFO does not accept additional data.
 
 ## Known Issues or Limitations
 The design works as intended, with no current known issues.
